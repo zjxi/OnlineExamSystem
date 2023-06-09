@@ -1,5 +1,5 @@
 # 在线上机考试管理系统功能介绍
-![License](https://img.shields.io/github/license/ElecRex/ExamSystem.svg)
+![License](https://img.shields.io/github/license/zjxi/OnlineExamSystem.svg)
 ![java](https://img.shields.io/badge/Java-8-red.svg)
 ![SSM Framework](https://img.shields.io/badge/SSM-Framework-purple.svg)
 
